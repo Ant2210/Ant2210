@@ -1,6 +1,6 @@
 # Hi there, I'm Ant 👋
 
-![Profile Banner](./)
+![Profile Banner](./githubBanner.webp)
 
 I am a highly motivated professional who recently achieved a Level 5 Diploma in Full Stack Web Applications with distinction. With a strong foundation in HTML, CSS, JavaScript, and Python, I have hands-on experience with technologies such as React, Bootstrap, Tailwind, Flask, Django, MongoDB, PostgreSQL, Git, and jQuery. 
 
